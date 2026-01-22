@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schedule//
+NAME:Зачет
+X-WR-CALNAME:Зачет
+TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+SUMMARY:English B2 / Английский язык B2 - Зачет
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T150000
+DESCRIPTION:Преподаватель: Филатов Андрей Сер
+ геевич\nГруппа: АЯ-B2/21
+LOCATION:ул.Ломоносова\, д.9\, лит. Е\, ауд. 3401а
+END:VEVENT
+END:VCALENDAR
