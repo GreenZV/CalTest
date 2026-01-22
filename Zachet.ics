@@ -44,7 +44,6 @@ DESCRIPTION:Преподаватель: Филатов Андрей Сер
  геевич\nГруппа: АЯ-B2/21
 LOCATION:ул.Ломоносова\, д.9\, лит. Е\, ауд. 3401а
 END:VEVENT
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English B22 / Английский язык B2 - Зачет
 DTSTART;TZID=Europe/Moscow:20260128T113000
