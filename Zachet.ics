@@ -10,9 +10,12 @@ SUMMARY:Техники публичных выступлений и пре
 DTSTART;TZID=Europe/Moscow:20251224T095000
 DTEND;TZID=Europe/Moscow:20251224T112000
 UID:36570892842@my.itmo.ru
-DESCRIPTION:Преподаватель: Степанова Мария Ол
- еговна\nГруппа: ТПВ 1.5
+DESCRIPTION:Преподаватель: 307930 Степанова Мари
+ я Олеговна\nГруппа: ТПВ 1.5\nФормат: Очно - д
+ истанционный 
 LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2336
+URL:https://itmo.zoom.us/j/84214305058?pwd=FeGnOELnFSk555Xt1LeTalGGBrClos.
+ 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:История российской науки и техники -
@@ -20,10 +23,11 @@ SUMMARY:История российской науки и техники -
 DTSTART;TZID=Europe/Moscow:20251226T081000
 DTEND;TZID=Europe/Moscow:20251226T094000
 UID:37422267407@my.itmo.ru
-DESCRIPTION:Преподаватель: Васильев Андрей Вл
- адимирович\nГруппа: ИНТ 2 к. ФИТИП 1.5\nПрим
- ечание: Зачет проходит в асинхронном фор
- мате на online платформе
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1.5\nФ
+ ормат: Дистанционный \nПримечание: Зачет 
+ проходит в асинхронном формате на online пл
+ атформе
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности - За
@@ -31,17 +35,20 @@ SUMMARY:Безопасность жизнедеятельности - За
 DTSTART;TZID=Europe/Moscow:20251229T153000
 DTEND;TZID=Europe/Moscow:20251229T170000
 UID:38491499062@my.itmo.ru
-DESCRIPTION:Преподаватель: Новиков Борис Юрье
- вич\nГруппа: БЖД Управление конфликтами 5
- .1
+DESCRIPTION:Преподаватель: 118456 Новиков Борис 
+ Юрьевич\nГруппа: БЖД Управление конфликт
+ ами 5.1\nФормат: Дистанционный 
+LOCATION:https://itmo.zoom.us/j/82010556307?pwd=qpl4FmUsfpVGprPidDb97SPbpM
+ JbjJ.1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English B2 / Английский язык B2 - Зачет
 DTSTART;TZID=Europe/Moscow:20260126T113000
 DTEND;TZID=Europe/Moscow:20260126T150000
 UID:37759176176@my.itmo.ru
-DESCRIPTION:Преподаватель: Филатов Андрей Сер
- геевич\nГруппа: АЯ-B2/21
+DESCRIPTION:Преподаватель: 356049 Филатов Андрей
+  Сергеевич\nГруппа: АЯ-B2/21\nФормат: Очно - д
+ истанционный 
 LOCATION:ул.Ломоносова\, д.9\, лит. Е\, ауд. 3401а
 END:VEVENT
 END:VCALENDAR
