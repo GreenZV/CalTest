@@ -1,0 +1,1672 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schedule//
+NAME:Лабораторные занятия
+X-WR-CALNAME:Лабораторные занятия
+TIMEZONE:Europe/Moscow
+X-APPLE-CALENDAR-COLOR:#a50aff
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240206T152000
+DTEND;TZID=Europe/Moscow:20240206T165000
+UID:440125090@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240208T133000
+DTEND;TZID=Europe/Moscow:20240208T150000
+UID:418252475@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240208T152000
+DTEND;TZID=Europe/Moscow:20240208T165000
+UID:418252568@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240210T114000
+DTEND;TZID=Europe/Moscow:20240210T131000
+UID:415204603@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240210T152000
+DTEND;TZID=Europe/Moscow:20240210T165000
+UID:411144114@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240213T152000
+DTEND;TZID=Europe/Moscow:20240213T165000
+UID:440127549@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240217T114000
+DTEND;TZID=Europe/Moscow:20240217T131000
+UID:2864715397@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240217T152000
+DTEND;TZID=Europe/Moscow:20240217T165000
+UID:411146383@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240220T152000
+DTEND;TZID=Europe/Moscow:20240220T165000
+UID:440129958@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240222T133000
+DTEND;TZID=Europe/Moscow:20240222T150000
+UID:418257375@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240222T152000
+DTEND;TZID=Europe/Moscow:20240222T165000
+UID:418257472@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240224T114000
+DTEND;TZID=Europe/Moscow:20240224T131000
+UID:415208994@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240224T152000
+DTEND;TZID=Europe/Moscow:20240224T165000
+UID:411148481@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240227T152000
+DTEND;TZID=Europe/Moscow:20240227T165000
+UID:440132155@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240302T114000
+DTEND;TZID=Europe/Moscow:20240302T131000
+UID:415211370@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240302T152000
+DTEND;TZID=Europe/Moscow:20240302T165000
+UID:411150822@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240305T152000
+DTEND;TZID=Europe/Moscow:20240305T165000
+UID:440134596@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240307T133000
+DTEND;TZID=Europe/Moscow:20240307T150000
+UID:418261878@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240307T152000
+DTEND;TZID=Europe/Moscow:20240307T165000
+UID:418261976@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240309T114000
+DTEND;TZID=Europe/Moscow:20240309T131000
+UID:415213403@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240309T152000
+DTEND;TZID=Europe/Moscow:20240309T165000
+UID:3333025830@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240312T152000
+DTEND;TZID=Europe/Moscow:20240312T165000
+UID:440136688@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240316T114000
+DTEND;TZID=Europe/Moscow:20240316T131000
+UID:415215738@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240316T152000
+DTEND;TZID=Europe/Moscow:20240316T165000
+UID:411155138@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240319T152000
+DTEND;TZID=Europe/Moscow:20240319T165000
+UID:440139030@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240321T133000
+DTEND;TZID=Europe/Moscow:20240321T150000
+UID:418266264@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240321T152000
+DTEND;TZID=Europe/Moscow:20240321T165000
+UID:418266361@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240323T114000
+DTEND;TZID=Europe/Moscow:20240323T131000
+UID:415218061@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240323T152000
+DTEND;TZID=Europe/Moscow:20240323T165000
+UID:411157449@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240326T152000
+DTEND;TZID=Europe/Moscow:20240326T165000
+UID:440141433@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240330T114000
+DTEND;TZID=Europe/Moscow:20240330T131000
+UID:415220214@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240330T152000
+DTEND;TZID=Europe/Moscow:20240330T165000
+UID:411159569@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240402T152000
+DTEND;TZID=Europe/Moscow:20240402T165000
+UID:440143383@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240404T133000
+DTEND;TZID=Europe/Moscow:20240404T150000
+UID:418270439@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240404T152000
+DTEND;TZID=Europe/Moscow:20240404T165000
+UID:418270529@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240406T114000
+DTEND;TZID=Europe/Moscow:20240406T131000
+UID:415222061@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240406T152000
+DTEND;TZID=Europe/Moscow:20240406T165000
+UID:411161400@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240409T152000
+DTEND;TZID=Europe/Moscow:20240409T165000
+UID:4493096984@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240413T114000
+DTEND;TZID=Europe/Moscow:20240413T131000
+UID:415223048@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240413T152000
+DTEND;TZID=Europe/Moscow:20240413T165000
+UID:411162364@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240416T152000
+DTEND;TZID=Europe/Moscow:20240416T165000
+UID:440146325@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240418T133000
+DTEND;TZID=Europe/Moscow:20240418T150000
+UID:418273234@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240418T152000
+DTEND;TZID=Europe/Moscow:20240418T165000
+UID:418273318@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240420T114000
+DTEND;TZID=Europe/Moscow:20240420T131000
+UID:415224680@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240420T152000
+DTEND;TZID=Europe/Moscow:20240420T165000
+UID:411163968@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240423T152000
+DTEND;TZID=Europe/Moscow:20240423T165000
+UID:440148032@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240427T114000
+DTEND;TZID=Europe/Moscow:20240427T131000
+UID:415226144@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240427T152000
+DTEND;TZID=Europe/Moscow:20240427T165000
+UID:411165404@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240430T152000
+DTEND;TZID=Europe/Moscow:20240430T165000
+UID:440149510@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240502T133000
+DTEND;TZID=Europe/Moscow:20240502T150000
+UID:418276056@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240502T152000
+DTEND;TZID=Europe/Moscow:20240502T165000
+UID:418276096@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240504T114000
+DTEND;TZID=Europe/Moscow:20240504T131000
+UID:415227216@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240504T152000
+DTEND;TZID=Europe/Moscow:20240504T165000
+UID:411166462@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240507T152000
+DTEND;TZID=Europe/Moscow:20240507T165000
+UID:440150529@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240511T114000
+DTEND;TZID=Europe/Moscow:20240511T131000
+UID:415228021@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240511T152000
+DTEND;TZID=Europe/Moscow:20240511T165000
+UID:411167241@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240514T152000
+DTEND;TZID=Europe/Moscow:20240514T165000
+UID:440151368@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240516T133000
+DTEND;TZID=Europe/Moscow:20240516T150000
+UID:418277867@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240516T152000
+DTEND;TZID=Europe/Moscow:20240516T165000
+UID:418277904@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240518T114000
+DTEND;TZID=Europe/Moscow:20240518T131000
+UID:415228893@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240518T152000
+DTEND;TZID=Europe/Moscow:20240518T165000
+UID:411168101@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240521T152000
+DTEND;TZID=Europe/Moscow:20240521T165000
+UID:440152344@my.itmo.ru
+DESCRIPTION:Преподаватель: 225526 Яковлева Викто
+ рия Евгеньевна\nГруппа: АОВС 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240525T114000
+DTEND;TZID=Europe/Moscow:20240525T131000
+UID:415229748@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240525T152000
+DTEND;TZID=Europe/Moscow:20240525T165000
+UID:411168928@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240530T133000
+DTEND;TZID=Europe/Moscow:20240530T150000
+UID:418279616@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240530T152000
+DTEND;TZID=Europe/Moscow:20240530T165000
+UID:418279640@my.itmo.ru
+DESCRIPTION:Преподаватель: 208147 Курилов Федор 
+ Константинович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лабораторны
+ е занятия
+DTSTART;TZID=Europe/Moscow:20240601T114000
+DTEND;TZID=Europe/Moscow:20240601T131000
+UID:415230498@my.itmo.ru
+DESCRIPTION:Преподаватель: 207329 Сомов Артем Вл
+ адимирович\nГруппа: ДИСКР МАТ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лабор
+ аторные занятия
+DTSTART;TZID=Europe/Moscow:20240601T152000
+DTEND;TZID=Europe/Moscow:20240601T165000
+UID:411169667@my.itmo.ru
+DESCRIPTION:Преподаватель: 241923 Мацнев Никита 
+ Игоревич\nГруппа: АЛГ и СД 1.5(M3104)\nФормат: 
+ Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20240907T133000
+DTEND;TZID=Europe/Moscow:20240907T150000
+UID:23240109429@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20240907T152000
+DTEND;TZID=Europe/Moscow:20240907T165000
+UID:24085675535@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240914T114000
+DTEND;TZID=Europe/Moscow:20240914T131000
+UID:23237604826@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240914T133000
+DTEND;TZID=Europe/Moscow:20240914T150000
+UID:23237604976@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240916T114000
+DTEND;TZID=Europe/Moscow:20240916T131000
+UID:6644883620@my.itmo.ru
+DESCRIPTION:Преподаватель: 353669 Хвастунов Нико
+ лай Николаевич\nГруппа: ФОКСТ - 1 1.5.1(M3204)\nФ
+ ормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20240921T133000
+DTEND;TZID=Europe/Moscow:20240921T150000
+UID:23240122733@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20240921T152000
+DTEND;TZID=Europe/Moscow:20240921T165000
+UID:24085690843@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240923T114000
+DTEND;TZID=Europe/Moscow:20240923T131000
+UID:6644885206@my.itmo.ru
+DESCRIPTION:Преподаватель: 353669 Хвастунов Нико
+ лай Николаевич\nГруппа: ФОКСТ - 1 1.5.1(M3204)\nФ
+ ормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240928T114000
+DTEND;TZID=Europe/Moscow:20240928T131000
+UID:23237618200@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20240928T133000
+DTEND;TZID=Europe/Moscow:20240928T150000
+UID:23237618375@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241005T133000
+DTEND;TZID=Europe/Moscow:20241005T150000
+UID:23240136879@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241005T152000
+DTEND;TZID=Europe/Moscow:20241005T165000
+UID:24085706352@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241007T114000
+DTEND;TZID=Europe/Moscow:20241007T131000
+UID:6644888380@my.itmo.ru
+DESCRIPTION:Преподаватель: 353669 Хвастунов Нико
+ лай Николаевич\nГруппа: ФОКСТ - 1 1.5.1(M3204)\nФ
+ ормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241012T114000
+DTEND;TZID=Europe/Moscow:20241012T131000
+UID:23237633073@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241012T133000
+DTEND;TZID=Europe/Moscow:20241012T150000
+UID:23237633252@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241014T114000
+DTEND;TZID=Europe/Moscow:20241014T131000
+UID:6644889967@my.itmo.ru
+DESCRIPTION:Преподаватель: 353669 Хвастунов Нико
+ лай Николаевич\nГруппа: ФОКСТ - 1 1.5.1(M3204)\nФ
+ ормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241019T133000
+DTEND;TZID=Europe/Moscow:20241019T150000
+UID:23240151461@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241019T152000
+DTEND;TZID=Europe/Moscow:20241019T165000
+UID:24085722104@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241026T114000
+DTEND;TZID=Europe/Moscow:20241026T131000
+UID:23237647554@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241026T133000
+DTEND;TZID=Europe/Moscow:20241026T150000
+UID:23237647729@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241028T114000
+DTEND;TZID=Europe/Moscow:20241028T131000
+UID:6644893141@my.itmo.ru
+DESCRIPTION:Преподаватель: 353669 Хвастунов Нико
+ лай Николаевич\nГруппа: ФОКСТ - 1 1.5.1(M3204)\nФ
+ ормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241102T133000
+DTEND;TZID=Europe/Moscow:20241102T150000
+UID:23240166090@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241102T152000
+DTEND;TZID=Europe/Moscow:20241102T165000
+UID:24085737939@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241109T114000
+DTEND;TZID=Europe/Moscow:20241109T131000
+UID:23237661092@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241109T133000
+DTEND;TZID=Europe/Moscow:20241109T150000
+UID:23237661260@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241116T133000
+DTEND;TZID=Europe/Moscow:20241116T150000
+UID:25554712193@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный \nПримечание: пере
+ нос из-за чемпионата
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241116T152000
+DTEND;TZID=Europe/Moscow:20241116T165000
+UID:25554712311@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный \nПримечание: пере
+ нос из-за чемпионата
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241123T114000
+DTEND;TZID=Europe/Moscow:20241123T131000
+UID:23237674908@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241123T133000
+DTEND;TZID=Europe/Moscow:20241123T150000
+UID:23237675074@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241125T114000
+DTEND;TZID=Europe/Moscow:20241125T131000
+UID:6644899500@my.itmo.ru
+DESCRIPTION:Преподаватель: 353669 Хвастунов Нико
+ лай Николаевич\nГруппа: ФОКСТ - 1 1.5.1(M3204)\nФ
+ ормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241130T133000
+DTEND;TZID=Europe/Moscow:20241130T150000
+UID:23240192867@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241130T152000
+DTEND;TZID=Europe/Moscow:20241130T165000
+UID:24085766015@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241207T114000
+DTEND;TZID=Europe/Moscow:20241207T131000
+UID:23237687904@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241207T133000
+DTEND;TZID=Europe/Moscow:20241207T150000
+UID:23237688060@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241214T133000
+DTEND;TZID=Europe/Moscow:20241214T150000
+UID:23240205655@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20241214T152000
+DTEND;TZID=Europe/Moscow:20241214T165000
+UID:24085779519@my.itmo.ru
+DESCRIPTION:Преподаватель: 308457 Круглов Георги
+ й Николаевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241216T114000
+DTEND;TZID=Europe/Moscow:20241216T131000
+UID:6644904257@my.itmo.ru
+DESCRIPTION:Преподаватель: 353669 Хвастунов Нико
+ лай Николаевич\nГруппа: ФОКСТ - 1 1.5.1(M3204)\nФ
+ ормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241221T114000
+DTEND;TZID=Europe/Moscow:20241221T131000
+UID:23237700970@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20241221T133000
+DTEND;TZID=Europe/Moscow:20241221T150000
+UID:23237701123@my.itmo.ru
+DESCRIPTION:Преподаватель: 223445 Батоцыренов Па
+ вел Андреевич\nГруппа: Баз.Д. 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20250904T185000
+DTEND;TZID=Europe/Moscow:20250904T202000
+UID:34035371110@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20250904T203000
+DTEND;TZID=Europe/Moscow:20250904T220000
+UID:34035371129@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности - Ла
+ бораторные занятия
+DTSTART;TZID=Europe/Moscow:20250912T203000
+DTEND;TZID=Europe/Moscow:20250912T220000
+UID:35383951152@my.itmo.ru
+DESCRIPTION:Преподаватель: 338891 Быковченко Соф
+ ья Алексеевна\nГруппа: БЖД Управление ко
+ нфликтами 5.1\nФормат: Дистанционный \nПри
+ мечание: Вводное занятие\, необходимо по
+ сетить одно
+LOCATION:https://itmo.zoom.us/j/85651406412?pwd=au8bhetDQLbx3lvYwKNP7d5HBY
+ tern.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20250913T133000
+DTEND;TZID=Europe/Moscow:20250913T150000
+UID:33043490465@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20250913T153000
+DTEND;TZID=Europe/Moscow:20250913T170000
+UID:33043490477@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20250916T095000
+DTEND;TZID=Europe/Moscow:20250916T112000
+UID:31360332258@my.itmo.ru
+DESCRIPTION:Преподаватель: 172608 Тимофеева Эльв
+ ира Олеговна\nГруппа: ФОКСТ-1 4.3.1(M3217)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20250918T185000
+DTEND;TZID=Europe/Moscow:20250918T202000
+UID:34035375616@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20250918T203000
+DTEND;TZID=Europe/Moscow:20250918T220000
+UID:34035375650@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20250923T095000
+DTEND;TZID=Europe/Moscow:20250923T112000
+UID:31360332398@my.itmo.ru
+DESCRIPTION:Преподаватель: 172608 Тимофеева Эльв
+ ира Олеговна\nГруппа: ФОКСТ-1 4.3.1(M3217)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20250927T133000
+DTEND;TZID=Europe/Moscow:20250927T150000
+UID:33043492690@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20250927T153000
+DTEND;TZID=Europe/Moscow:20250927T170000
+UID:33043492702@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251002T185000
+DTEND;TZID=Europe/Moscow:20251002T202000
+UID:34035380536@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251002T203000
+DTEND;TZID=Europe/Moscow:20251002T220000
+UID:34035380580@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251007T095000
+DTEND;TZID=Europe/Moscow:20251007T112000
+UID:31360332761@my.itmo.ru
+DESCRIPTION:Преподаватель: 172608 Тимофеева Эльв
+ ира Олеговна\nГруппа: ФОКСТ-1 4.3.1(M3217)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251011T133000
+DTEND;TZID=Europe/Moscow:20251011T150000
+UID:33043495400@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251011T153000
+DTEND;TZID=Europe/Moscow:20251011T170000
+UID:33043495419@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251014T095000
+DTEND;TZID=Europe/Moscow:20251014T112000
+UID:31360332943@my.itmo.ru
+DESCRIPTION:Преподаватель: 172608 Тимофеева Эльв
+ ира Олеговна\nГруппа: ФОКСТ-1 4.3.1(M3217)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251016T185000
+DTEND;TZID=Europe/Moscow:20251016T202000
+UID:34035386214@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251016T203000
+DTEND;TZID=Europe/Moscow:20251016T220000
+UID:34035386258@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251025T133000
+DTEND;TZID=Europe/Moscow:20251025T150000
+UID:33043498176@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251025T153000
+DTEND;TZID=Europe/Moscow:20251025T170000
+UID:33043498191@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251028T095000
+DTEND;TZID=Europe/Moscow:20251028T112000
+UID:31360333306@my.itmo.ru
+DESCRIPTION:Преподаватель: 172608 Тимофеева Эльв
+ ира Олеговна\nГруппа: ФОКСТ-1 4.3.1(M3217)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4207
+URL:https://telemost.yandex.ru/j/7232170214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251030T185000
+DTEND;TZID=Europe/Moscow:20251030T202000
+UID:34035391864@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251030T203000
+DTEND;TZID=Europe/Moscow:20251030T220000
+UID:34035391911@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251108T133000
+DTEND;TZID=Europe/Moscow:20251108T150000
+UID:33043500901@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251108T153000
+DTEND;TZID=Europe/Moscow:20251108T170000
+UID:33043500917@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251113T185000
+DTEND;TZID=Europe/Moscow:20251113T202000
+UID:34035397324@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251113T203000
+DTEND;TZID=Europe/Moscow:20251113T220000
+UID:34035397369@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251122T133000
+DTEND;TZID=Europe/Moscow:20251122T150000
+UID:33043503637@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251122T153000
+DTEND;TZID=Europe/Moscow:20251122T170000
+UID:33043503654@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251125T095000
+DTEND;TZID=Europe/Moscow:20251125T112000
+UID:31360334034@my.itmo.ru
+DESCRIPTION:Преподаватель: 172608 Тимофеева Эльв
+ ира Олеговна\nГруппа: ФОКСТ-1 4.3.1(M3217)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251127T185000
+DTEND;TZID=Europe/Moscow:20251127T202000
+UID:34035402860@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251127T203000
+DTEND;TZID=Europe/Moscow:20251127T220000
+UID:34035402902@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251206T133000
+DTEND;TZID=Europe/Moscow:20251206T150000
+UID:33043506189@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251206T153000
+DTEND;TZID=Europe/Moscow:20251206T170000
+UID:33043506206@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251211T185000
+DTEND;TZID=Europe/Moscow:20251211T202000
+UID:34035408065@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251211T203000
+DTEND;TZID=Europe/Moscow:20251211T220000
+UID:34035408105@my.itmo.ru
+DESCRIPTION:Преподаватель: 191245 Шатилова Анна 
+ Вячеславовна\nГруппа: Баз.Д. 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251216T095000
+DTEND;TZID=Europe/Moscow:20251216T112000
+UID:31360334580@my.itmo.ru
+DESCRIPTION:Преподаватель: 172608 Тимофеева Эльв
+ ира Олеговна\nГруппа: ФОКСТ-1 4.3.1(M3217)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251220T133000
+DTEND;TZID=Europe/Moscow:20251220T150000
+UID:33043508800@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лаборато
+ рные занятия
+DTSTART;TZID=Europe/Moscow:20251220T153000
+DTEND;TZID=Europe/Moscow:20251220T170000
+UID:33043508814@my.itmo.ru
+DESCRIPTION:Преподаватель: 242014 Бутенко Олег Р
+ оманович\nГруппа: ООП и П 4.3(M3217)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лабораторные занятия
+DTSTART;TZID=Europe/Moscow:20251223T095000
+DTEND;TZID=Europe/Moscow:20251223T112000
+UID:38720767662@my.itmo.ru
+DESCRIPTION:Преподаватель: 172608 Тимофеева Эльв
+ ира Олеговна\nГруппа: ФОКСТ-1 4.3.1(M3217)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4303
+END:VEVENT
+END:VCALENDAR
