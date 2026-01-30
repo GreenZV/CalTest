@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schedule//
+NAME:ITMO Дифференцированный зачет
+X-WR-CALNAME:ITMO Дифференцированный зачет
+TIMEZONE:Europe/Moscow
+X-APPLE-CALENDAR-COLOR:#ee215b
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Дифференцированный з
+ ачет
+DTSTART;TZID=Europe/Moscow:20250117T100000
+DTEND;TZID=Europe/Moscow:20250117T131000
+UID:24856151533@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1.5.1(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Дифференцированный з
+ ачет
+DTSTART;TZID=Europe/Moscow:20260112T095000
+DTEND;TZID=Europe/Moscow:20260112T130000
+UID:37051969247@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4.3.1(M3217)\nФор
+ мат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. Б\, ауд. 4202
+END:VEVENT
+END:VCALENDAR
