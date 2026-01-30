@@ -2,35 +2,33 @@
 
 *Автоматически обновляемые iCalendar (.ics) файлы*
 
-**🔄 Последнее обновление:** `2026-01-30 19:41:42 UTC`
+**🔄 Последнее обновление:** `2026-01-30 20:30:02 UTC`
 **📊 Количество календарей:** `8`
 
 ### 📅 Занятия спортом
 
 #### 🔗 Ссылки для подписки
-🍎 Apple Calendar
+🍎 Apple Calendar (iOS/Mac)
 
-webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics
+`webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics`
 
-📅 Google Calendar
+[📅 Google Calendar](https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics)
 
-https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics
+[📧 Outlook.com](https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics&name=Занятия%20спортом)
 
-📧 Outlook.com
+[💻 Yahoo Calendar](https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics)
 
-https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics&name=Занятия%20спортом
+[💼 Microsoft Teams](https://teams.microsoft.com/l/calendar/0/0?subject=Занятия%20спортом&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics)
 
-💻 Yahoo Calendar
+[🎥 Zoom](https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics)
 
-https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics
+📊 Calendars 5 (iOS)
 
-💼 Microsoft Teams
+`calshow://import/subscribe?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics`
 
-https://teams.microsoft.com/l/calendar/0/0?subject=Занятия%20спортом&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics
+📧 Outlook Mobile
 
-🎥 Zoom
-
-https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics
+`outlookcal://addcalendar?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics&name=Занятия%20спортом`
 
 
 
@@ -41,29 +39,27 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%
 ### 📅 Практические занятия
 
 #### 🔗 Ссылки для подписки
-🍎 Apple Calendar
+🍎 Apple Calendar (iOS/Mac)
 
-webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics
+`webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics`
 
-📅 Google Calendar
+[📅 Google Calendar](https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics)
 
-https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics
+[📧 Outlook.com](https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics&name=Практические%20занятия)
 
-📧 Outlook.com
+[💻 Yahoo Calendar](https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics)
 
-https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics&name=Практические%20занятия
+[💼 Microsoft Teams](https://teams.microsoft.com/l/calendar/0/0?subject=Практические%20занятия&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics)
 
-💻 Yahoo Calendar
+[🎥 Zoom](https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics)
 
-https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics
+📊 Calendars 5 (iOS)
 
-💼 Microsoft Teams
+`calshow://import/subscribe?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics`
 
-https://teams.microsoft.com/l/calendar/0/0?subject=Практические%20занятия&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics
+📧 Outlook Mobile
 
-🎥 Zoom
-
-https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics
+`outlookcal://addcalendar?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics&name=Практические%20занятия`
 
 
 
@@ -74,29 +70,27 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практич�
 ### 📅 Лекции
 
 #### 🔗 Ссылки для подписки
-🍎 Apple Calendar
+🍎 Apple Calendar (iOS/Mac)
 
-webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics
+`webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics`
 
-📅 Google Calendar
+[📅 Google Calendar](https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics)
 
-https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics
+[📧 Outlook.com](https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics&name=Лекции)
 
-📧 Outlook.com
+[💻 Yahoo Calendar](https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics)
 
-https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics&name=Лекции
+[💼 Microsoft Teams](https://teams.microsoft.com/l/calendar/0/0?subject=Лекции&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics)
 
-💻 Yahoo Calendar
+[🎥 Zoom](https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics)
 
-https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics
+📊 Calendars 5 (iOS)
 
-💼 Microsoft Teams
+`calshow://import/subscribe?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics`
 
-https://teams.microsoft.com/l/calendar/0/0?subject=Лекции&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics
+📧 Outlook Mobile
 
-🎥 Zoom
-
-https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics
+`outlookcal://addcalendar?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics&name=Лекции`
 
 
 
@@ -107,29 +101,27 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ic
 ### 📅 Лабораторные занятия
 
 #### 🔗 Ссылки для подписки
-🍎 Apple Calendar
+🍎 Apple Calendar (iOS/Mac)
 
-webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics
+`webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics`
 
-📅 Google Calendar
+[📅 Google Calendar](https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics)
 
-https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics
+[📧 Outlook.com](https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics&name=Лабораторные%20занятия)
 
-📧 Outlook.com
+[💻 Yahoo Calendar](https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics)
 
-https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics&name=Лабораторные%20занятия
+[💼 Microsoft Teams](https://teams.microsoft.com/l/calendar/0/0?subject=Лабораторные%20занятия&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics)
 
-💻 Yahoo Calendar
+[🎥 Zoom](https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics)
 
-https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics
+📊 Calendars 5 (iOS)
 
-💼 Microsoft Teams
+`calshow://import/subscribe?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics`
 
-https://teams.microsoft.com/l/calendar/0/0?subject=Лабораторные%20занятия&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics
+📧 Outlook Mobile
 
-🎥 Zoom
-
-https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics
+`outlookcal://addcalendar?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics&name=Лабораторные%20занятия`
 
 
 
@@ -140,29 +132,27 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лаборат�
 ### 📅 Зачет
 
 #### 🔗 Ссылки для подписки
-🍎 Apple Calendar
+🍎 Apple Calendar (iOS/Mac)
 
-webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics
+`webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics`
 
-📅 Google Calendar
+[📅 Google Calendar](https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics)
 
-https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics
+[📧 Outlook.com](https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics&name=Зачет)
 
-📧 Outlook.com
+[💻 Yahoo Calendar](https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics)
 
-https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics&name=Зачет
+[💼 Microsoft Teams](https://teams.microsoft.com/l/calendar/0/0?subject=Зачет&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics)
 
-💻 Yahoo Calendar
+[🎥 Zoom](https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics)
 
-https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics
+📊 Calendars 5 (iOS)
 
-💼 Microsoft Teams
+`calshow://import/subscribe?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics`
 
-https://teams.microsoft.com/l/calendar/0/0?subject=Зачет&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics
+📧 Outlook Mobile
 
-🎥 Zoom
-
-https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics
+`outlookcal://addcalendar?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics&name=Зачет`
 
 
 
@@ -173,29 +163,27 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics
 ### 📅 Консультация к экзамену
 
 #### 🔗 Ссылки для подписки
-🍎 Apple Calendar
+🍎 Apple Calendar (iOS/Mac)
 
-webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics
+`webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics`
 
-📅 Google Calendar
+[📅 Google Calendar](https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics)
 
-https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics
+[📧 Outlook.com](https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics&name=Консультация%20к%20экзамену)
 
-📧 Outlook.com
+[💻 Yahoo Calendar](https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics)
 
-https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics&name=Консультация%20к%20экзамену
+[💼 Microsoft Teams](https://teams.microsoft.com/l/calendar/0/0?subject=Консультация%20к%20экзамену&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics)
 
-💻 Yahoo Calendar
+[🎥 Zoom](https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics)
 
-https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics
+📊 Calendars 5 (iOS)
 
-💼 Microsoft Teams
+`calshow://import/subscribe?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics`
 
-https://teams.microsoft.com/l/calendar/0/0?subject=Консультация%20к%20экзамену&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics
+📧 Outlook Mobile
 
-🎥 Zoom
-
-https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics
+`outlookcal://addcalendar?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics&name=Консультация%20к%20экзамену`
 
 
 
@@ -206,29 +194,27 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консуль�
 ### 📅 Экзамен
 
 #### 🔗 Ссылки для подписки
-🍎 Apple Calendar
+🍎 Apple Calendar (iOS/Mac)
 
-webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics
+`webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics`
 
-📅 Google Calendar
+[📅 Google Calendar](https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics)
 
-https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics
+[📧 Outlook.com](https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics&name=Экзамен)
 
-📧 Outlook.com
+[💻 Yahoo Calendar](https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics)
 
-https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics&name=Экзамен
+[💼 Microsoft Teams](https://teams.microsoft.com/l/calendar/0/0?subject=Экзамен&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics)
 
-💻 Yahoo Calendar
+[🎥 Zoom](https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics)
 
-https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics
+📊 Calendars 5 (iOS)
 
-💼 Microsoft Teams
+`calshow://import/subscribe?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics`
 
-https://teams.microsoft.com/l/calendar/0/0?subject=Экзамен&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics
+📧 Outlook Mobile
 
-🎥 Zoom
-
-https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics
+`outlookcal://addcalendar?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics&name=Экзамен`
 
 
 
@@ -239,29 +225,27 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.
 ### 📅 Дифференцированный зачет
 
 #### 🔗 Ссылки для подписки
-🍎 Apple Calendar
+🍎 Apple Calendar (iOS/Mac)
 
-webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics
+`webcal://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics`
 
-📅 Google Calendar
+[📅 Google Calendar](https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics)
 
-https://calendar.google.com/calendar/render?cid=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics
+[📧 Outlook.com](https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics&name=Дифференцированный%20зачет)
 
-📧 Outlook.com
+[💻 Yahoo Calendar](https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics)
 
-https://outlook.live.com/calendar/0/deeplink/add?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics&name=Дифференцированный%20зачет
+[💼 Microsoft Teams](https://teams.microsoft.com/l/calendar/0/0?subject=Дифференцированный%20зачет&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics)
 
-💻 Yahoo Calendar
+[🎥 Zoom](https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics)
 
-https://calendar.yahoo.com/?v=60&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics
+📊 Calendars 5 (iOS)
 
-💼 Microsoft Teams
+`calshow://import/subscribe?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics`
 
-https://teams.microsoft.com/l/calendar/0/0?subject=Дифференцированный%20зачет&url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics
+📧 Outlook Mobile
 
-🎥 Zoom
-
-https://zoom.us/calendar/add?ics=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics
+`outlookcal://addcalendar?url=https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics&name=Дифференцированный%20зачет`
 
 
 
