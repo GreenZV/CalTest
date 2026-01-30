@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schedule//
+NAME:Экзамен
+X-WR-CALNAME:Экзамен
+TIMEZONE:Europe/Moscow
+X-APPLE-CALENDAR-COLOR:#ee215b
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Экзамен
+DTSTART;TZID=Europe/Moscow:20240611T082000
+DTEND;TZID=Europe/Moscow:20240611T131000
+UID:3470117307@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Экзамен
+DTSTART;TZID=Europe/Moscow:20240615T114000
+DTEND;TZID=Europe/Moscow:20240615T150000
+UID:3469377914@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1.5(M3104)\nФ
+ ормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Экзамен
+DTSTART;TZID=Europe/Moscow:20240619T100000
+DTEND;TZID=Europe/Moscow:20240619T131000
+UID:3464937897@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1.5(M3104)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Экзамен
+DTSTART;TZID=Europe/Moscow:20240625T100000
+DTEND;TZID=Europe/Moscow:20240625T131000
+UID:3344291015@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1.5(M3104)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Экзамен
+DTSTART;TZID=Europe/Moscow:20250111T114000
+DTEND;TZID=Europe/Moscow:20250111T183000
+UID:24833807337@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Экзамен
+DTSTART;TZID=Europe/Moscow:20250115T100000
+DTEND;TZID=Europe/Moscow:20250115T183000
+UID:24828224622@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1.5(M3204)\n
+ Формат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2311
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Экзамен
+DTSTART;TZID=Europe/Moscow:20250124T100000
+DTEND;TZID=Europe/Moscow:20250124T165000
+UID:24832879929@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: Доп.Гл.ВМ 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Экзамен
+DTSTART;TZID=Europe/Moscow:20250129T100000
+DTEND;TZID=Europe/Moscow:20250129T150000
+UID:24831950183@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1.5(M3204)\nФор
+ мат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Экзамен
+DTSTART;TZID=Europe/Moscow:20251227T095000
+DTEND;TZID=Europe/Moscow:20251227T170000
+UID:37012284931@my.itmo.ru
+DESCRIPTION:Преподаватель: 460549 Бакеева Лариса
+  Викторовна\nГруппа: Доп.Гл.ВМ 4.3(M3217)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Экзамен
+DTSTART;TZID=Europe/Moscow:20260110T095000
+DTEND;TZID=Europe/Moscow:20260110T202000
+UID:37013703276@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Экзамен
+DTSTART;TZID=Europe/Moscow:20260115T133000
+DTEND;TZID=Europe/Moscow:20260115T184000
+UID:37046299911@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4.3(M3217)\nФор
+ мат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Экзамен
+DTSTART;TZID=Europe/Moscow:20260122T095000
+DTEND;TZID=Europe/Moscow:20260122T150000
+UID:37010872141@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4.3(M3217)
+ \nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+END:VCALENDAR
