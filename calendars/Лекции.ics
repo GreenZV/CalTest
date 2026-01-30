@@ -1,0 +1,3181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schedule//
+NAME:Лекции
+X-WR-CALNAME:Лекции
+TIMEZONE:Europe/Moscow
+X-APPLE-CALENDAR-COLOR:#0091ff
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240206T114000
+DTEND;TZID=Europe/Moscow:20240206T131000
+UID:2107573767@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240206T133000
+DTEND;TZID=Europe/Moscow:20240206T150000
+UID:440125051@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240207T082000
+DTEND;TZID=Europe/Moscow:20240207T095000
+UID:417234825@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240207T114000
+DTEND;TZID=Europe/Moscow:20240207T131000
+UID:385311838@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240207T133000
+DTEND;TZID=Europe/Moscow:20240207T150000
+UID:385311908@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240209T133000
+DTEND;TZID=Europe/Moscow:20240209T150000
+UID:386828890@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240210T100000
+DTEND;TZID=Europe/Moscow:20240210T113000
+UID:410636758@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240213T114000
+DTEND;TZID=Europe/Moscow:20240213T131000
+UID:2107587880@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240213T133000
+DTEND;TZID=Europe/Moscow:20240213T150000
+UID:440127507@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240214T082000
+DTEND;TZID=Europe/Moscow:20240214T095000
+UID:417237225@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240214T114000
+DTEND;TZID=Europe/Moscow:20240214T131000
+UID:385314113@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240216T133000
+DTEND;TZID=Europe/Moscow:20240216T150000
+UID:386831151@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240217T100000
+DTEND;TZID=Europe/Moscow:20240217T113000
+UID:410639029@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240220T114000
+DTEND;TZID=Europe/Moscow:20240220T131000
+UID:2107602178@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240220T133000
+DTEND;TZID=Europe/Moscow:20240220T150000
+UID:440129916@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240221T082000
+DTEND;TZID=Europe/Moscow:20240221T095000
+UID:417239589@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240221T114000
+DTEND;TZID=Europe/Moscow:20240221T131000
+UID:385316309@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240221T133000
+DTEND;TZID=Europe/Moscow:20240221T150000
+UID:385316397@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240224T100000
+DTEND;TZID=Europe/Moscow:20240224T113000
+UID:410641067@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240227T114000
+DTEND;TZID=Europe/Moscow:20240227T131000
+UID:2107614967@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240227T133000
+DTEND;TZID=Europe/Moscow:20240227T150000
+UID:440132113@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240228T082000
+DTEND;TZID=Europe/Moscow:20240228T095000
+UID:417241696@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240228T114000
+DTEND;TZID=Europe/Moscow:20240228T131000
+UID:385318296@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240301T133000
+DTEND;TZID=Europe/Moscow:20240301T150000
+UID:386835404@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240302T100000
+DTEND;TZID=Europe/Moscow:20240302T113000
+UID:410643420@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240305T114000
+DTEND;TZID=Europe/Moscow:20240305T131000
+UID:2107629025@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240305T133000
+DTEND;TZID=Europe/Moscow:20240305T150000
+UID:440134554@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240306T082000
+DTEND;TZID=Europe/Moscow:20240306T095000
+UID:417244061@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240306T114000
+DTEND;TZID=Europe/Moscow:20240306T131000
+UID:385320464@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240306T133000
+DTEND;TZID=Europe/Moscow:20240306T150000
+UID:385320555@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240309T100000
+DTEND;TZID=Europe/Moscow:20240309T113000
+UID:410645412@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240312T114000
+DTEND;TZID=Europe/Moscow:20240312T131000
+UID:2107641499@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240312T133000
+DTEND;TZID=Europe/Moscow:20240312T150000
+UID:440136646@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240313T082000
+DTEND;TZID=Europe/Moscow:20240313T095000
+UID:417246119@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240313T114000
+DTEND;TZID=Europe/Moscow:20240313T131000
+UID:385322415@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240315T133000
+DTEND;TZID=Europe/Moscow:20240315T150000
+UID:386839563@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240316T100000
+DTEND;TZID=Europe/Moscow:20240316T113000
+UID:410647724@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240319T114000
+DTEND;TZID=Europe/Moscow:20240319T131000
+UID:2107655604@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240319T133000
+DTEND;TZID=Europe/Moscow:20240319T150000
+UID:440138990@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240320T082000
+DTEND;TZID=Europe/Moscow:20240320T095000
+UID:417248407@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240320T114000
+DTEND;TZID=Europe/Moscow:20240320T131000
+UID:385324508@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240320T133000
+DTEND;TZID=Europe/Moscow:20240320T150000
+UID:385324602@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240322T133000
+DTEND;TZID=Europe/Moscow:20240322T150000
+UID:2921611761@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240323T100000
+DTEND;TZID=Europe/Moscow:20240323T113000
+UID:410650013@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+URL:https://itmo.zoom.us/j/87914886320?pwd=eUtEcWFkd3hCMDhJVnYrRTJJMlloQT0
+ 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240326T114000
+DTEND;TZID=Europe/Moscow:20240326T131000
+UID:2107669429@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240326T133000
+DTEND;TZID=Europe/Moscow:20240326T150000
+UID:440141395@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240327T082000
+DTEND;TZID=Europe/Moscow:20240327T095000
+UID:2923097617@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240327T114000
+DTEND;TZID=Europe/Moscow:20240327T131000
+UID:385326745@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240329T133000
+DTEND;TZID=Europe/Moscow:20240329T150000
+UID:386843836@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240330T100000
+DTEND;TZID=Europe/Moscow:20240330T113000
+UID:410652135@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240402T114000
+DTEND;TZID=Europe/Moscow:20240402T131000
+UID:2107682634@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240402T133000
+DTEND;TZID=Europe/Moscow:20240402T150000
+UID:440143370@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240403T082000
+DTEND;TZID=Europe/Moscow:20240403T095000
+UID:417252649@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240403T114000
+DTEND;TZID=Europe/Moscow:20240403T131000
+UID:385328361@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240403T133000
+DTEND;TZID=Europe/Moscow:20240403T150000
+UID:385328439@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240405T133000
+DTEND;TZID=Europe/Moscow:20240405T150000
+UID:386845488@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240406T100000
+DTEND;TZID=Europe/Moscow:20240406T113000
+UID:410653945@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240409T114000
+DTEND;TZID=Europe/Moscow:20240409T131000
+UID:4492349899@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240409T133000
+DTEND;TZID=Europe/Moscow:20240409T150000
+UID:4493096955@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240410T082000
+DTEND;TZID=Europe/Moscow:20240410T095000
+UID:4493097184@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240410T114000
+DTEND;TZID=Europe/Moscow:20240410T131000
+UID:4496085533@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240412T133000
+DTEND;TZID=Europe/Moscow:20240412T150000
+UID:386846405@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240413T100000
+DTEND;TZID=Europe/Moscow:20240413T113000
+UID:410654905@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240416T114000
+DTEND;TZID=Europe/Moscow:20240416T131000
+UID:2107705404@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240416T133000
+DTEND;TZID=Europe/Moscow:20240416T150000
+UID:440146312@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240417T082000
+DTEND;TZID=Europe/Moscow:20240417T095000
+UID:417255478@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240417T114000
+DTEND;TZID=Europe/Moscow:20240417T131000
+UID:385330836@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240417T133000
+DTEND;TZID=Europe/Moscow:20240417T150000
+UID:385330914@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240419T133000
+DTEND;TZID=Europe/Moscow:20240419T150000
+UID:386847888@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240420T100000
+DTEND;TZID=Europe/Moscow:20240420T113000
+UID:410656493@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240423T114000
+DTEND;TZID=Europe/Moscow:20240423T131000
+UID:2107717690@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240423T133000
+DTEND;TZID=Europe/Moscow:20240423T150000
+UID:440148020@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240424T082000
+DTEND;TZID=Europe/Moscow:20240424T095000
+UID:417257145@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240424T114000
+DTEND;TZID=Europe/Moscow:20240424T131000
+UID:385332376@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240426T133000
+DTEND;TZID=Europe/Moscow:20240426T150000
+UID:386849279@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240427T100000
+DTEND;TZID=Europe/Moscow:20240427T113000
+UID:410657938@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240430T114000
+DTEND;TZID=Europe/Moscow:20240430T131000
+UID:2107729502@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240430T133000
+DTEND;TZID=Europe/Moscow:20240430T150000
+UID:440149499@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240503T133000
+DTEND;TZID=Europe/Moscow:20240503T150000
+UID:386850249@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240504T100000
+DTEND;TZID=Europe/Moscow:20240504T113000
+UID:410658977@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240507T114000
+DTEND;TZID=Europe/Moscow:20240507T131000
+UID:2107739784@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240507T133000
+DTEND;TZID=Europe/Moscow:20240507T150000
+UID:440150516@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240508T082000
+DTEND;TZID=Europe/Moscow:20240508T095000
+UID:417259519@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240508T114000
+DTEND;TZID=Europe/Moscow:20240508T131000
+UID:385334419@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240510T133000
+DTEND;TZID=Europe/Moscow:20240510T150000
+UID:386851027@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240511T100000
+DTEND;TZID=Europe/Moscow:20240511T113000
+UID:410659761@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240514T114000
+DTEND;TZID=Europe/Moscow:20240514T131000
+UID:2107749694@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240514T133000
+DTEND;TZID=Europe/Moscow:20240514T150000
+UID:440151358@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240515T082000
+DTEND;TZID=Europe/Moscow:20240515T095000
+UID:417260277@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240515T114000
+DTEND;TZID=Europe/Moscow:20240515T131000
+UID:385335002@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240515T133000
+DTEND;TZID=Europe/Moscow:20240515T150000
+UID:385335021@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240517T133000
+DTEND;TZID=Europe/Moscow:20240517T150000
+UID:386851725@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240518T100000
+DTEND;TZID=Europe/Moscow:20240518T113000
+UID:410660582@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Лекции
+DTSTART;TZID=Europe/Moscow:20240521T114000
+DTEND;TZID=Europe/Moscow:20240521T131000
+UID:2107760669@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1(M3100\,M3101\
+ ,M3102\,M3103\,M3104)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Аппаратное обеспечение вычислитель
+ ных систем - Лекции
+DTSTART;TZID=Europe/Moscow:20240521T133000
+DTEND;TZID=Europe/Moscow:20240521T150000
+UID:440152330@my.itmo.ru
+DESCRIPTION:Преподаватель: 121805 Скаков Павел С
+ ергеевич\nГруппа: АОВС 1(M3100\,M3101\,M3102\,M3103\,M31
+ 04)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240522T082000
+DTEND;TZID=Europe/Moscow:20240522T095000
+UID:417261214@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240522T114000
+DTEND;TZID=Europe/Moscow:20240522T131000
+UID:385335812@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240524T133000
+DTEND;TZID=Europe/Moscow:20240524T150000
+UID:386852500@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240525T100000
+DTEND;TZID=Europe/Moscow:20240525T113000
+UID:410661417@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Лекции
+DTSTART;TZID=Europe/Moscow:20240529T082000
+DTEND;TZID=Europe/Moscow:20240529T095000
+UID:10746788898@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1(M3100\,M3101\,M3102
+ \,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240529T114000
+DTEND;TZID=Europe/Moscow:20240529T131000
+UID:10748849099@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Лекции
+DTSTART;TZID=Europe/Moscow:20240529T133000
+DTEND;TZID=Europe/Moscow:20240529T150000
+UID:10748849732@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1(M3100\,M3101\,M3102\,M3103
+ \,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Лекции
+DTSTART;TZID=Europe/Moscow:20240531T133000
+DTEND;TZID=Europe/Moscow:20240531T150000
+UID:386853138@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1(M3100\,M3101\,M3102\,M3103M
+ 3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Лекци
+ и
+DTSTART;TZID=Europe/Moscow:20240601T100000
+DTEND;TZID=Europe/Moscow:20240601T113000
+UID:410662129@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1(M3100\,M3101\,M3102\
+ ,M3103\,M3104)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20240902T133000
+DTEND;TZID=Europe/Moscow:20240902T150000
+UID:16033556309@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20240903T133000
+DTEND;TZID=Europe/Moscow:20240903T150000
+UID:17390020898@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20240904T152000
+DTEND;TZID=Europe/Moscow:20240904T165000
+UID:22257257368@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2426
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20240905T152000
+DTEND;TZID=Europe/Moscow:20240905T165000
+UID:20908512402@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Очно - 
+ дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20240906T133000
+DTEND;TZID=Europe/Moscow:20240906T150000
+UID:20908512881@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: Доп.Гл.ВМ 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20240907T100000
+DTEND;TZID=Europe/Moscow:20240907T113000
+UID:20915996755@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20240907T170000
+DTEND;TZID=Europe/Moscow:20240907T183000
+UID:21482895835@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Диста
+ нционный \nПримечание: Консультация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20240909T133000
+DTEND;TZID=Europe/Moscow:20240909T150000
+UID:16033557384@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20240910T133000
+DTEND;TZID=Europe/Moscow:20240910T150000
+UID:17390022558@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности - Ле
+ кции
+DTSTART;TZID=Europe/Moscow:20240911T170000
+DTEND;TZID=Europe/Moscow:20240911T183000
+UID:23835557265@my.itmo.ru
+DESCRIPTION:Преподаватель: 338891 Быковченко Соф
+ ья Алексеевна\nГруппа: БЖД Управление ли
+ чными финансами 4\nФормат: Дистанционный 
+ \nПримечание: Консультация к онлайн курс
+ у. Нужно посетить 1 из 3-х
+LOCATION:https://itmo.zoom.us/j/89441357318?pwd=4ueOvyroWCoxa1dOet7NgfFYhY
+ 6L83.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20240912T152000
+DTEND;TZID=Europe/Moscow:20240912T165000
+UID:17521888388@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности - Ле
+ кции
+DTSTART;TZID=Europe/Moscow:20240912T170000
+DTEND;TZID=Europe/Moscow:20240912T183000
+UID:23835558586@my.itmo.ru
+DESCRIPTION:Преподаватель: 338891 Быковченко Соф
+ ья Алексеевна\nГруппа: БЖД Управление ли
+ чными финансами 4\nФормат: Дистанционный 
+ \nПримечание: Консультация к онлайн курс
+ у. Нужно посетить 1 из 3-х
+LOCATION:https://itmo.zoom.us/j/81943594667?pwd=EijljDBQvnOESs4HRZOCaUHUOT
+ mLKV.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Безопасность жизнедеятельности - Ле
+ кции
+DTSTART;TZID=Europe/Moscow:20240913T202000
+DTEND;TZID=Europe/Moscow:20240913T215000
+UID:23835560034@my.itmo.ru
+DESCRIPTION:Преподаватель: 338891 Быковченко Соф
+ ья Алексеевна\nГруппа: БЖД Управление ли
+ чными финансами 4\nФормат: Дистанционный 
+ \nПримечание: Консультация к онлайн курс
+ у. Нужно посетить 1 из 3-х
+LOCATION:https://itmo.zoom.us/j/82230095514?pwd=Qno1MdLS4KdLa4DXXqNT55O5Gt
+ LNqa.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20240914T100000
+DTEND;TZID=Europe/Moscow:20240914T113000
+UID:17526774312@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+URL:https://itmo.zoom.us/j/82672414631?pwd=5T72cWVlNwXaI0buW6mEnZ8i1qJofY.
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20240916T133000
+DTEND;TZID=Europe/Moscow:20240916T150000
+UID:16033558713@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+URL:https://itmo.zoom.us/j/83123682260?pwd=FMwnayawDOPXp0Tnk5AXsVydia3cwa.
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20240917T133000
+DTEND;TZID=Europe/Moscow:20240917T150000
+UID:17390024605@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20240918T152000
+DTEND;TZID=Europe/Moscow:20240918T165000
+UID:17521890131@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20240919T152000
+DTEND;TZID=Europe/Moscow:20240919T165000
+UID:17519448453@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Очно - 
+ дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20240920T133000
+DTEND;TZID=Europe/Moscow:20240920T150000
+UID:17526776420@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: Доп.Гл.ВМ 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20240921T100000
+DTEND;TZID=Europe/Moscow:20240921T113000
+UID:17526776655@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20240921T170000
+DTEND;TZID=Europe/Moscow:20240921T183000
+UID:21482907766@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Диста
+ нционный \nПримечание: Консультация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20240924T133000
+DTEND;TZID=Europe/Moscow:20240924T150000
+UID:17390026742@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20240925T184000
+DTEND;TZID=Europe/Moscow:20240925T201000
+UID:24187012588@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Дистанционный 
+LOCATION:https://itmo.zoom.us/j/87040817480?pwd=CIAcUvk1MnVyiMHLlrzZuFmov0
+ pa45.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20240926T152000
+DTEND;TZID=Europe/Moscow:20240926T165000
+UID:17521892947@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20240928T100000
+DTEND;TZID=Europe/Moscow:20240928T113000
+UID:17526779026@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20240930T133000
+DTEND;TZID=Europe/Moscow:20240930T150000
+UID:16033561479@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241001T133000
+DTEND;TZID=Europe/Moscow:20241001T150000
+UID:17390028936@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241002T152000
+DTEND;TZID=Europe/Moscow:20241002T165000
+UID:17521894878@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241003T152000
+DTEND;TZID=Europe/Moscow:20241003T165000
+UID:17519453187@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Очно - 
+ дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20241004T133000
+DTEND;TZID=Europe/Moscow:20241004T150000
+UID:17526781315@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: Доп.Гл.ВМ 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241005T100000
+DTEND;TZID=Europe/Moscow:20241005T113000
+UID:17526781616@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241005T170000
+DTEND;TZID=Europe/Moscow:20241005T183000
+UID:21482920508@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Диста
+ нционный \nПримечание: Консультация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241007T133000
+DTEND;TZID=Europe/Moscow:20241007T150000
+UID:16033563029@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241008T133000
+DTEND;TZID=Europe/Moscow:20241008T150000
+UID:17390031356@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241010T152000
+DTEND;TZID=Europe/Moscow:20241010T165000
+UID:17521898030@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241012T100000
+DTEND;TZID=Europe/Moscow:20241012T113000
+UID:17526784253@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+URL:https://itmo.zoom.us/j/89853046477?pwd=XuTfzU3RavDAH3JJbUDRTwaJhIrLZr.
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241014T133000
+DTEND;TZID=Europe/Moscow:20241014T150000
+UID:16033564529@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241015T133000
+DTEND;TZID=Europe/Moscow:20241015T150000
+UID:17390033681@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241016T152000
+DTEND;TZID=Europe/Moscow:20241016T165000
+UID:17521899994@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241017T152000
+DTEND;TZID=Europe/Moscow:20241017T165000
+UID:17519458262@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Очно - 
+ дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20241018T133000
+DTEND;TZID=Europe/Moscow:20241018T150000
+UID:17526786527@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: Доп.Гл.ВМ 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241019T100000
+DTEND;TZID=Europe/Moscow:20241019T113000
+UID:17526786786@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241019T170000
+DTEND;TZID=Europe/Moscow:20241019T183000
+UID:21482933612@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Диста
+ нционный \nПримечание: Консультация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241021T133000
+DTEND;TZID=Europe/Moscow:20241021T150000
+UID:16033565954@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241022T133000
+DTEND;TZID=Europe/Moscow:20241022T150000
+UID:17390035959@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241024T152000
+DTEND;TZID=Europe/Moscow:20241024T165000
+UID:17521903017@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241026T100000
+DTEND;TZID=Europe/Moscow:20241026T113000
+UID:17526789382@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+URL:https://itmo.zoom.us/j/82871463194?pwd=nHydaCr4Ys7wcWvrh2cjXojrC0b4Yu.
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241028T133000
+DTEND;TZID=Europe/Moscow:20241028T150000
+UID:16033567478@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241029T133000
+DTEND;TZID=Europe/Moscow:20241029T150000
+UID:17390038252@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241030T152000
+DTEND;TZID=Europe/Moscow:20241030T165000
+UID:17521904987@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241031T152000
+DTEND;TZID=Europe/Moscow:20241031T165000
+UID:17519463221@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Очно - 
+ дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20241101T133000
+DTEND;TZID=Europe/Moscow:20241101T150000
+UID:17526791665@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: Доп.Гл.ВМ 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241102T100000
+DTEND;TZID=Europe/Moscow:20241102T113000
+UID:17526791969@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241102T170000
+DTEND;TZID=Europe/Moscow:20241102T183000
+UID:21482946696@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Диста
+ нционный \nПримечание: Консультация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241105T133000
+DTEND;TZID=Europe/Moscow:20241105T150000
+UID:17390040360@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241107T152000
+DTEND;TZID=Europe/Moscow:20241107T165000
+UID:17521907772@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241109T100000
+DTEND;TZID=Europe/Moscow:20241109T113000
+UID:17526794237@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+URL:https://itmo.zoom.us/j/85347717190?pwd=aFdyswjhBxEYIABMhW9LSWvmrdwbRI.
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241112T133000
+DTEND;TZID=Europe/Moscow:20241112T150000
+UID:17390042516@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241113T152000
+DTEND;TZID=Europe/Moscow:20241113T165000
+UID:17521909566@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241114T152000
+DTEND;TZID=Europe/Moscow:20241114T165000
+UID:24966488776@my.itmo.ru
+DESCRIPTION:Группа: ИРИ 2\nФормат: Очно - дистан
+ ционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20241115T133000
+DTEND;TZID=Europe/Moscow:20241115T150000
+UID:17526796323@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: Доп.Гл.ВМ 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241115T184000
+DTEND;TZID=Europe/Moscow:20241115T201000
+UID:25421742556@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Дистанционный 
+LOCATION:https://itmo.zoom.us/j/84682791464?pwd=ONtklV1aXt3fEyBY0PTKbdFaZw
+ Tb46.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241116T100000
+DTEND;TZID=Europe/Moscow:20241116T113000
+UID:17526796610@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241116T170000
+DTEND;TZID=Europe/Moscow:20241116T183000
+UID:21482958531@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Диста
+ нционный \nПримечание: Консультация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241118T133000
+DTEND;TZID=Europe/Moscow:20241118T150000
+UID:16033571759@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241119T133000
+DTEND;TZID=Europe/Moscow:20241119T150000
+UID:17390044637@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241121T152000
+DTEND;TZID=Europe/Moscow:20241121T165000
+UID:17521912369@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241123T100000
+DTEND;TZID=Europe/Moscow:20241123T113000
+UID:17526798998@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241125T133000
+DTEND;TZID=Europe/Moscow:20241125T150000
+UID:16033573180@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241126T133000
+DTEND;TZID=Europe/Moscow:20241126T150000
+UID:17390046711@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241127T152000
+DTEND;TZID=Europe/Moscow:20241127T165000
+UID:17521914111@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241128T152000
+DTEND;TZID=Europe/Moscow:20241128T165000
+UID:17519472209@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Очно - 
+ дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20241129T133000
+DTEND;TZID=Europe/Moscow:20241129T150000
+UID:17526800959@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: Доп.Гл.ВМ 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241130T100000
+DTEND;TZID=Europe/Moscow:20241130T113000
+UID:17526801210@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241130T170000
+DTEND;TZID=Europe/Moscow:20241130T183000
+UID:21482970764@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Диста
+ нционный \nПримечание: Консультация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241202T133000
+DTEND;TZID=Europe/Moscow:20241202T150000
+UID:16033574530@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241203T133000
+DTEND;TZID=Europe/Moscow:20241203T150000
+UID:17390048654@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241205T152000
+DTEND;TZID=Europe/Moscow:20241205T165000
+UID:17521916658@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241207T100000
+DTEND;TZID=Europe/Moscow:20241207T113000
+UID:17526803349@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241209T133000
+DTEND;TZID=Europe/Moscow:20241209T150000
+UID:16033575779@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241210T133000
+DTEND;TZID=Europe/Moscow:20241210T150000
+UID:17390050544@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241211T152000
+DTEND;TZID=Europe/Moscow:20241211T165000
+UID:17521918281@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241212T152000
+DTEND;TZID=Europe/Moscow:20241212T165000
+UID:17519476333@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Очно - 
+ дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20241213T133000
+DTEND;TZID=Europe/Moscow:20241213T150000
+UID:17526805227@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: Доп.Гл.ВМ 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241214T100000
+DTEND;TZID=Europe/Moscow:20241214T113000
+UID:17526805489@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История России и мира в ХХ веке - Лек
+ ции
+DTSTART;TZID=Europe/Moscow:20241214T170000
+DTEND;TZID=Europe/Moscow:20241214T183000
+UID:21482982198@my.itmo.ru
+DESCRIPTION:Преподаватель: 282027 Пригодич Никит
+ а Дмитриевич\nГруппа: ИРИ 2\nФормат: Диста
+ нционный \nПримечание: Консультация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241216T133000
+DTEND;TZID=Europe/Moscow:20241216T150000
+UID:16033577077@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241217T133000
+DTEND;TZID=Europe/Moscow:20241217T150000
+UID:17390052448@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20241219T152000
+DTEND;TZID=Europe/Moscow:20241219T165000
+UID:17521920850@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1(M3200\,M3201\,M3
+ 202\,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Лекции
+DTSTART;TZID=Europe/Moscow:20241221T100000
+DTEND;TZID=Europe/Moscow:20241221T113000
+UID:17526807661@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1(M3200\,M3201\,M3202\
+ ,M3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20241223T133000
+DTEND;TZID=Europe/Moscow:20241223T150000
+UID:16033578346@my.itmo.ru
+DESCRIPTION:Преподаватель: 117150 Музыченко Яна 
+ Борисовна\nГруппа: ФОКСТ - 1 1 (M3200\,M3201\,M3202\,M
+ 3203\,M3204)\nФормат: Очно - дистанционный 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20241224T133000
+DTEND;TZID=Europe/Moscow:20241224T150000
+UID:17390054315@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1(М3200\,M3
+ 201\,M3202\,M3203\,M3204)\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20250902T153000
+DTEND;TZID=Europe/Moscow:20250902T170000
+UID:34867983472@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T130000
+UID:34867298345@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Alfa
+  Space (2304)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20250904T133000
+DTEND;TZID=Europe/Moscow:20250904T150000
+UID:33896172366@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+URL:https://itmo.zoom.us/j/81262373011?pwd=wjBLGELHx2cxvRqeQZzgQIDxBEbpCr.
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20250905T153000
+DTEND;TZID=Europe/Moscow:20250905T170000
+UID:34592710196@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20250906T113000
+DTEND;TZID=Europe/Moscow:20250906T130000
+UID:33042301001@my.itmo.ru
+DESCRIPTION:Преподаватель: 460549 Бакеева Лариса
+  Викторовна\nГруппа: Доп.Гл.ВМ 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20250906T185000
+DTEND;TZID=Europe/Moscow:20250906T202000
+UID:34636482957@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Дистанционный \nПримечание: Консул
+ ьтация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20250909T153000
+DTEND;TZID=Europe/Moscow:20250909T170000
+UID:32263776171@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T130000
+UID:33009647442@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20250912T133000
+DTEND;TZID=Europe/Moscow:20250912T150000
+UID:33043490291@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20250912T153000
+DTEND;TZID=Europe/Moscow:20250912T170000
+UID:33073807407@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20250916T153000
+DTEND;TZID=Europe/Moscow:20250916T170000
+UID:32263776663@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20250917T113000
+DTEND;TZID=Europe/Moscow:20250917T130000
+UID:33009648453@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20250918T133000
+DTEND;TZID=Europe/Moscow:20250918T150000
+UID:33896176021@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20250919T153000
+DTEND;TZID=Europe/Moscow:20250919T170000
+UID:33073808508@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20250920T113000
+DTEND;TZID=Europe/Moscow:20250920T130000
+UID:33042303094@my.itmo.ru
+DESCRIPTION:Преподаватель: 460549 Бакеева Лариса
+  Викторовна\nГруппа: Доп.Гл.ВМ 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20250920T185000
+DTEND;TZID=Europe/Moscow:20250920T202000
+UID:34636495296@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Дистанционный \nПримечание: Консул
+ ьтация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20250923T153000
+DTEND;TZID=Europe/Moscow:20250923T170000
+UID:32263777178@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T130000
+UID:33009649501@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20250924T171000
+DTEND;TZID=Europe/Moscow:20250924T184000
+UID:35340011399@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Oran
+ ge Classroom (1229)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20250926T133000
+DTEND;TZID=Europe/Moscow:20250926T150000
+UID:33043492496@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20250926T153000
+DTEND;TZID=Europe/Moscow:20250926T170000
+UID:33073809649@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20250930T153000
+DTEND;TZID=Europe/Moscow:20250930T170000
+UID:32263777744@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T130000
+UID:33009650666@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251002T133000
+DTEND;TZID=Europe/Moscow:20251002T150000
+UID:33896180064@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251003T133000
+DTEND;TZID=Europe/Moscow:20251003T150000
+UID:33043493735@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251003T153000
+DTEND;TZID=Europe/Moscow:20251003T170000
+UID:33073810912@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20251004T113000
+DTEND;TZID=Europe/Moscow:20251004T130000
+UID:33042305508@my.itmo.ru
+DESCRIPTION:Преподаватель: 460549 Бакеева Лариса
+  Викторовна\nГруппа: Доп.Гл.ВМ 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251004T185000
+DTEND;TZID=Europe/Moscow:20251004T202000
+UID:34636508058@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Дистанционный \nПримечание: Консул
+ ьтация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251007T153000
+DTEND;TZID=Europe/Moscow:20251007T170000
+UID:32263778441@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251008T113000
+DTEND;TZID=Europe/Moscow:20251008T130000
+UID:33009651997@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251010T133000
+DTEND;TZID=Europe/Moscow:20251010T150000
+UID:33043495134@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+URL:https://itmo.zoom.us/j/84137219453?pwd=pgz0bBQUXIoqAbolQ3k9CjKfh4bPRO.
+ 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251010T153000
+DTEND;TZID=Europe/Moscow:20251010T170000
+UID:33073812331@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251014T153000
+DTEND;TZID=Europe/Moscow:20251014T170000
+UID:32263779126@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T130000
+UID:33009653362@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251016T133000
+DTEND;TZID=Europe/Moscow:20251016T150000
+UID:33896184884@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251017T133000
+DTEND;TZID=Europe/Moscow:20251017T150000
+UID:33043496561@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251017T153000
+DTEND;TZID=Europe/Moscow:20251017T170000
+UID:33073813773@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20251018T113000
+DTEND;TZID=Europe/Moscow:20251018T130000
+UID:33042308301@my.itmo.ru
+DESCRIPTION:Преподаватель: 460549 Бакеева Лариса
+  Викторовна\nГруппа: Доп.Гл.ВМ 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251018T185000
+DTEND;TZID=Europe/Moscow:20251018T202000
+UID:34636521588@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Дистанционный \nПримечание: Консул
+ ьтация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251021T153000
+DTEND;TZID=Europe/Moscow:20251021T170000
+UID:32263779777@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T130000
+UID:33009654669@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251024T133000
+DTEND;TZID=Europe/Moscow:20251024T150000
+UID:33043497913@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T130000
+UID:37046936231@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251028T153000
+DTEND;TZID=Europe/Moscow:20251028T170000
+UID:32263780440@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T130000
+UID:33009656033@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251030T133000
+DTEND;TZID=Europe/Moscow:20251030T150000
+UID:33896189690@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251031T133000
+DTEND;TZID=Europe/Moscow:20251031T150000
+UID:33043499324@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251031T153000
+DTEND;TZID=Europe/Moscow:20251031T170000
+UID:33073816567@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T130000
+UID:33042311051@my.itmo.ru
+DESCRIPTION:Преподаватель: 460549 Бакеева Лариса
+  Викторовна\nГруппа: Доп.Гл.ВМ 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251101T185000
+DTEND;TZID=Europe/Moscow:20251101T202000
+UID:34636535028@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Дистанционный \nПримечание: Консул
+ ьтация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T130000
+UID:33009657293@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251107T133000
+DTEND;TZID=Europe/Moscow:20251107T150000
+UID:33043500618@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251107T153000
+DTEND;TZID=Europe/Moscow:20251107T170000
+UID:33073817875@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251111T153000
+DTEND;TZID=Europe/Moscow:20251111T170000
+UID:32263781872@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T130000
+UID:33009658652@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251113T133000
+DTEND;TZID=Europe/Moscow:20251113T150000
+UID:33896194333@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251114T133000
+DTEND;TZID=Europe/Moscow:20251114T150000
+UID:33043502032@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251114T153000
+DTEND;TZID=Europe/Moscow:20251114T170000
+UID:33073819305@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20251115T113000
+DTEND;TZID=Europe/Moscow:20251115T130000
+UID:37695833551@my.itmo.ru
+DESCRIPTION:Преподаватель: 460549 Бакеева Лариса
+  Викторовна\nГруппа: Доп.Гл.ВМ 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251115T185000
+DTEND;TZID=Europe/Moscow:20251115T202000
+UID:34636547702@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Дистанционный \nПримечание: Консул
+ ьтация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251118T153000
+DTEND;TZID=Europe/Moscow:20251118T170000
+UID:32263782523@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251119T113000
+DTEND;TZID=Europe/Moscow:20251119T130000
+UID:33009659972@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251121T133000
+DTEND;TZID=Europe/Moscow:20251121T150000
+UID:33043503382@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251121T153000
+DTEND;TZID=Europe/Moscow:20251121T170000
+UID:33073820674@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251125T153000
+DTEND;TZID=Europe/Moscow:20251125T170000
+UID:32263783190@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251126T113000
+DTEND;TZID=Europe/Moscow:20251126T130000
+UID:33009661276@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251127T133000
+DTEND;TZID=Europe/Moscow:20251127T150000
+UID:33896199011@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251128T133000
+DTEND;TZID=Europe/Moscow:20251128T150000
+UID:33043504727@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251128T153000
+DTEND;TZID=Europe/Moscow:20251128T170000
+UID:33073822034@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20251129T113000
+DTEND;TZID=Europe/Moscow:20251129T130000
+UID:33042316354@my.itmo.ru
+DESCRIPTION:Преподаватель: 460549 Бакеева Лариса
+  Викторовна\nГруппа: Доп.Гл.ВМ 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251129T185000
+DTEND;TZID=Europe/Moscow:20251129T202000
+UID:34636560837@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Дистанционный \nПримечание: Консул
+ ьтация
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251202T153000
+DTEND;TZID=Europe/Moscow:20251202T170000
+UID:32263783839@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T130000
+UID:33009662514@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251205T133000
+DTEND;TZID=Europe/Moscow:20251205T150000
+UID:38679779435@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251205T153000
+DTEND;TZID=Europe/Moscow:20251205T170000
+UID:33073823303@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251209T153000
+DTEND;TZID=Europe/Moscow:20251209T170000
+UID:32263784469@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T130000
+UID:33009663704@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251211T133000
+DTEND;TZID=Europe/Moscow:20251211T150000
+UID:33896203390@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251212T133000
+DTEND;TZID=Europe/Moscow:20251212T150000
+UID:33043507237@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251212T153000
+DTEND;TZID=Europe/Moscow:20251212T170000
+UID:33073824573@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Лекции
+DTSTART;TZID=Europe/Moscow:20251213T113000
+DTEND;TZID=Europe/Moscow:20251213T130000
+UID:33042318852@my.itmo.ru
+DESCRIPTION:Преподаватель: 460549 Бакеева Лариса
+  Викторовна\nГруппа: Доп.Гл.ВМ 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:История российской науки и техники -
+  Лекции
+DTSTART;TZID=Europe/Moscow:20251213T185000
+DTEND;TZID=Europe/Moscow:20251213T202000
+UID:34636573508@my.itmo.ru
+DESCRIPTION:Преподаватель: 289607 Васильев Андре
+ й Владимирович\nГруппа: ИНТ 2 к. ФИТИП 1\nФо
+ рмат: Дистанционный \nПримечание: Консул
+ ьтация
+LOCATION:https://itmo.zoom.us/j/88315989019?pwd=tMCHtXMig5juHUxzheBW1HiuHy
+ HKt0.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251216T153000
+DTEND;TZID=Europe/Moscow:20251216T170000
+UID:32263785139@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Лекции
+DTSTART;TZID=Europe/Moscow:20251217T113000
+DTEND;TZID=Europe/Moscow:20251217T130000
+UID:33009664979@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4(M3215\,M
+ 3216\,M3217\,M3218\,M3219\,M3220)\nФормат: Очно - дистанц
+ ионный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Лекции
+DTSTART;TZID=Europe/Moscow:20251219T133000
+DTEND;TZID=Europe/Moscow:20251219T150000
+UID:33043508556@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4(M3215\,M3216\,M3217\
+ ,M3218\,M3219\,M3220)\nФормат: Очно - дистанционный
+  
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Лекции
+DTSTART;TZID=Europe/Moscow:20251219T153000
+DTEND;TZID=Europe/Moscow:20251219T170000
+UID:33073825906@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4(M3215\,M3216\,M3
+ 217\,M3218\,M3219\,M3220\nФормат: Очно - дистанционн
+ ый 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Физические основы компьютерных и се
+ тевых технологий - Лекции
+DTSTART;TZID=Europe/Moscow:20251223T153000
+DTEND;TZID=Europe/Moscow:20251223T170000
+UID:38720766921@my.itmo.ru
+DESCRIPTION:Преподаватель: 105840 Зинчик Алексан
+ др Адольфович\nГруппа: ФОКСТ-1 4(M3215\,M3216\,M321
+ 7\,M3218\,M3219\,M3220)\nФормат: Очно - дистанционны
+ й 
+LOCATION:ул.Ломоносова\, д.9\, лит. М\, ауд. 1122
+END:VEVENT
+END:VCALENDAR
