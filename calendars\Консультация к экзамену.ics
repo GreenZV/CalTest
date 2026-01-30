@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schedule//
+NAME:Консультация к экзамену
+X-WR-CALNAME:Консультация к экзамену
+TIMEZONE:Europe/Moscow
+X-APPLE-CALENDAR-COLOR:#1846c7
+BEGIN:VEVENT
+SUMMARY:Программирование на C++ - Консультаци
+ я к экзамену
+DTSTART;TZID=Europe/Moscow:20240610T170000
+DTEND;TZID=Europe/Moscow:20240610T183000
+UID:3470117187@my.itmo.ru
+DESCRIPTION:Преподаватель: 126435 Хвастунов Алек
+ сандр Павлович\nГруппа: ПР С++ 1.5(M3104)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дискретная математика - Консультаци
+ я к экзамену
+DTSTART;TZID=Europe/Moscow:20240614T170000
+DTEND;TZID=Europe/Moscow:20240614T183000
+UID:3469377697@my.itmo.ru
+DESCRIPTION:Преподаватель: 192029 Чухарев Конста
+ нтин Игоревич\nГруппа: ДИСКР МАТ 1.5(M3104)\nФ
+ ормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2313
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Математический анализ - Консультаци
+ я к экзамену
+DTSTART;TZID=Europe/Moscow:20240618T170000
+DTEND;TZID=Europe/Moscow:20240618T183000
+UID:3464937775@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: МАТАН 1.5(M3104)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Алгоритмы и структуры данных - Консу
+ льтация к экзамену
+DTSTART;TZID=Europe/Moscow:20240621T170000
+DTEND;TZID=Europe/Moscow:20240621T183000
+UID:3467898616@my.itmo.ru
+DESCRIPTION:Преподаватель: 264310 Ткаченко Данил
+  Михайлович\nГруппа: АЛГ и СД 1.5(M3104)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Специальные разделы высшей математ
+ ики - Консультация к экзамену
+DTSTART;TZID=Europe/Moscow:20240624T170000
+DTEND;TZID=Europe/Moscow:20240624T183000
+UID:3344290923@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: СР ВМ 1.5(M3104)\nФормат: О
+ чно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на С# - Консульт
+ ация к экзамену
+DTSTART;TZID=Europe/Moscow:20250110T170000
+DTEND;TZID=Europe/Moscow:20250110T183000
+UID:24833807133@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Консультация к 
+ экзамену
+DTSTART;TZID=Europe/Moscow:20250114T170000
+DTEND;TZID=Europe/Moscow:20250114T183000
+UID:24828224416@my.itmo.ru
+DESCRIPTION:Преподаватель: 234388 Блаженов Алекс
+ ей Викторович\nГруппа: Теория Вер. 1.5(M3204)\n
+ Формат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2311
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Консультация к экзамену
+DTSTART;TZID=Europe/Moscow:20250123T170000
+DTEND;TZID=Europe/Moscow:20250123T183000
+UID:24832879789@my.itmo.ru
+DESCRIPTION:Преподаватель: 153869 Далевская Ольг
+ а Петровна\nГруппа: Доп.Гл.ВМ 1.5(M3204)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. Lemo
+ n Classroom (1419)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Консультация к экзамен
+ у
+DTSTART;TZID=Europe/Moscow:20250128T170000
+DTEND;TZID=Europe/Moscow:20250128T183000
+UID:24831950080@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 1.5(M3204)\nФор
+ мат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Дополнительные главы высшей матема
+ тики - Консультация к экзамену
+DTSTART;TZID=Europe/Moscow:20251226T171000
+DTEND;TZID=Europe/Moscow:20251226T184000
+UID:37012284328@my.itmo.ru
+DESCRIPTION:Преподаватель: 460549 Бакеева Лариса
+  Викторовна\nГруппа: Доп.Гл.ВМ 4.3(M3217)\nФорм
+ ат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Объектно-ориентированное проектиро
+ вание и программирование на C# - Консульт
+ ация к экзамену
+DTSTART;TZID=Europe/Moscow:20260109T171000
+DTEND;TZID=Europe/Moscow:20260109T184000
+UID:37013703016@my.itmo.ru
+DESCRIPTION:Преподаватель: 184321 Макаревич Рома
+ н Дмитриевич\nГруппа: ООП и П 4.3(M3217)\nФорма
+ т: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 1405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Базы данных - Консультация к экзамен
+ у
+DTSTART;TZID=Europe/Moscow:20260114T171000
+DTEND;TZID=Europe/Moscow:20260114T184000
+UID:37046299746@my.itmo.ru
+DESCRIPTION:Преподаватель: 114568 Маятин Алексан
+ др Владимирович\nГруппа: Баз.Д. 4.3(M3217)\nФор
+ мат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Теория вероятности - Консультация к 
+ экзамену
+DTSTART;TZID=Europe/Moscow:20260121T171000
+DTEND;TZID=Europe/Moscow:20260121T184000
+UID:37010871803@my.itmo.ru
+DESCRIPTION:Преподаватель: 100639 Тертычный Влад
+ имир Юрьевич\nГруппа: Теор.Вероятн. 4.3(M3217)
+ \nФормат: Очно - дистанционный 
+LOCATION:Кронверкский пр.\, д.49\, лит.А\, ауд. 2334
+END:VEVENT
+END:VCALENDAR
