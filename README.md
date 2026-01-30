@@ -2,7 +2,7 @@
 
 *Автоматически обновляемые iCalendar (.ics) файлы*
 
-**🔄 Последнее обновление:** `2026-01-30 20:39:28 UTC`
+**🔄 Последнее обновление:** `2026-01-30 20:42:37 UTC`
 **📊 Количество календарей:** `8`
 
 ---
@@ -37,7 +37,9 @@
 #### 📎 Дополнительные ссылки
 📥 Прямая загрузка
 
-https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics---
+https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%20спортом.ics
+
+---
 
 ### 📅 Практические занятия
 
@@ -69,7 +71,9 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Занятия%
 #### 📎 Дополнительные ссылки
 📥 Прямая загрузка
 
-https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics---
+https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практические%20занятия.ics
+
+---
 
 ### 📅 Лекции
 
@@ -101,7 +105,9 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Практич�
 #### 📎 Дополнительные ссылки
 📥 Прямая загрузка
 
-https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics---
+https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ics
+
+---
 
 ### 📅 Лабораторные занятия
 
@@ -133,7 +139,9 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лекции.ic
 #### 📎 Дополнительные ссылки
 📥 Прямая загрузка
 
-https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics---
+https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лабораторные%20занятия.ics
+
+---
 
 ### 📅 Зачет
 
@@ -165,7 +173,9 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Лаборат�
 #### 📎 Дополнительные ссылки
 📥 Прямая загрузка
 
-https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics---
+https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics
+
+---
 
 ### 📅 Консультация к экзамену
 
@@ -197,7 +207,9 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Зачет.ics-
 #### 📎 Дополнительные ссылки
 📥 Прямая загрузка
 
-https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics---
+https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консультация%20к%20экзамену.ics
+
+---
 
 ### 📅 Экзамен
 
@@ -229,7 +241,9 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Консуль�
 #### 📎 Дополнительные ссылки
 📥 Прямая загрузка
 
-https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics---
+https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.ics
+
+---
 
 ### 📅 Дифференцированный зачет
 
@@ -261,7 +275,9 @@ https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Экзамен.
 #### 📎 Дополнительные ссылки
 📥 Прямая загрузка
 
-https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics---
+https://raw.githubusercontent.com/GreenZV/CalTest/main/calendars/Дифференцированный%20зачет.ics
+
+---
 
 
 ## 📱 Инструкции по настройке
