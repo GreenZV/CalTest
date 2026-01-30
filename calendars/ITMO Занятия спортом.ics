@@ -470,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20240913T200000
 DTEND;TZID=Europe/Moscow:20240913T210000
-UID:23636966722@my.itmo.ru
+UID:23604303920@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -480,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20240913T200000
 DTEND;TZID=Europe/Moscow:20240913T210000
-UID:23604303920@my.itmo.ru
+UID:23636966722@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -510,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20240918T200000
 DTEND;TZID=Europe/Moscow:20240918T210000
-UID:23636970971@my.itmo.ru
+UID:23604308152@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -520,7 +520,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20240918T200000
 DTEND;TZID=Europe/Moscow:20240918T210000
-UID:23604308152@my.itmo.ru
+UID:23636970971@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -550,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20240923T200000
 DTEND;TZID=Europe/Moscow:20240923T210000
-UID:23636975527@my.itmo.ru
+UID:23594263188@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -560,7 +560,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20240923T200000
 DTEND;TZID=Europe/Moscow:20240923T210000
-UID:23594263188@my.itmo.ru
+UID:23636975527@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -590,7 +590,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20240927T200000
 DTEND;TZID=Europe/Moscow:20240927T210000
-UID:23604317278@my.itmo.ru
+UID:23636980121@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -600,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20240927T200000
 DTEND;TZID=Europe/Moscow:20240927T210000
-UID:23636980121@my.itmo.ru
+UID:23604317278@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20241002T200000
 DTEND;TZID=Europe/Moscow:20241002T210000
-UID:23636984941@my.itmo.ru
+UID:23604322075@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -640,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20241002T200000
 DTEND;TZID=Europe/Moscow:20241002T210000
-UID:23604322075@my.itmo.ru
+UID:23636984941@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -690,7 +690,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20241009T200000
 DTEND;TZID=Europe/Moscow:20241009T210000
-UID:23604329676@my.itmo.ru
+UID:23636992568@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -700,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20241009T200000
 DTEND;TZID=Europe/Moscow:20241009T210000
-UID:23636992568@my.itmo.ru
+UID:23604329676@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -730,7 +730,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20241014T200000
 DTEND;TZID=Europe/Moscow:20241014T210000
-UID:23636997552@my.itmo.ru
+UID:23594285130@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -740,17 +740,7 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20241014T200000
 DTEND;TZID=Europe/Moscow:20241014T210000
-UID:23594285130@my.itmo.ru
-DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
- Бронюсович\nГруппа: Беговой клуб\nФормат:
-  Очный
-LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20241016T200000
-DTEND;TZID=Europe/Moscow:20241016T210000
-UID:23636999972@my.itmo.ru
+UID:23636997552@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -768,9 +758,9 @@ LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20241018T200000
-DTEND;TZID=Europe/Moscow:20241018T210000
-UID:23604339541@my.itmo.ru
+DTSTART;TZID=Europe/Moscow:20241016T200000
+DTEND;TZID=Europe/Moscow:20241016T210000
+UID:23636999972@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -781,6 +771,16 @@ SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20241018T200000
 DTEND;TZID=Europe/Moscow:20241018T210000
 UID:23637002460@my.itmo.ru
+DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
+ Бронюсович\nГруппа: Беговой клуб\nФормат:
+  Очный
+LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Беговой клуб - Занятия спортом
+DTSTART;TZID=Europe/Moscow:20241018T200000
+DTEND;TZID=Europe/Moscow:20241018T210000
+UID:23604339541@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -1149,16 +1149,6 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20250217T200000
 DTEND;TZID=Europe/Moscow:20250217T210000
-UID:28289827827@my.itmo.ru
-DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
- Бронюсович\nГруппа: Беговой клуб\nФормат:
-  Очный
-LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20250217T200000
-DTEND;TZID=Europe/Moscow:20250217T210000
 UID:27452711842@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
@@ -1166,6 +1156,16 @@ DESCRIPTION:Преподаватель: 408377 Вилимас Томас
  5PCV                                                                      
                                                                            
               
+LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Беговой клуб - Занятия спортом
+DTSTART;TZID=Europe/Moscow:20250217T200000
+DTEND;TZID=Europe/Moscow:20250217T210000
+UID:28289827827@my.itmo.ru
+DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
+ Бронюсович\nГруппа: Беговой клуб\nФормат:
+  Очный
 LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
@@ -1195,16 +1195,6 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20250224T200000
 DTEND;TZID=Europe/Moscow:20250224T210000
-UID:28289833952@my.itmo.ru
-DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
- Бронюсович\nГруппа: Беговой клуб\nФормат:
-  Очный
-LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20250224T200000
-DTEND;TZID=Europe/Moscow:20250224T210000
 UID:27452716638@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
@@ -1212,6 +1202,16 @@ DESCRIPTION:Преподаватель: 408377 Вилимас Томас
  5PCV                                                                      
                                                                            
               
+LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Беговой клуб - Занятия спортом
+DTSTART;TZID=Europe/Moscow:20250224T200000
+DTEND;TZID=Europe/Moscow:20250224T210000
+UID:28289833952@my.itmo.ru
+DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
+ Бронюсович\nГруппа: Беговой клуб\nФормат:
+  Очный
 LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
@@ -1241,26 +1241,6 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20250303T200000
 DTEND;TZID=Europe/Moscow:20250303T210000
-UID:28289840037@my.itmo.ru
-DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
- Бронюсович\nГруппа: Беговой клуб\nФормат:
-  Очный
-LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20250303T200000
-DTEND;TZID=Europe/Moscow:20250303T210000
-UID:28289840037@my.itmo.ru
-DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
- Бронюсович\nГруппа: Беговой клуб\nФормат:
-  Очный
-LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20250303T200000
-DTEND;TZID=Europe/Moscow:20250303T210000
 UID:27452721260@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
@@ -1268,6 +1248,26 @@ DESCRIPTION:Преподаватель: 408377 Вилимас Томас
  5PCV                                                                      
                                                                            
               
+LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Беговой клуб - Занятия спортом
+DTSTART;TZID=Europe/Moscow:20250303T200000
+DTEND;TZID=Europe/Moscow:20250303T210000
+UID:28289840037@my.itmo.ru
+DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
+ Бронюсович\nГруппа: Беговой клуб\nФормат:
+  Очный
+LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Беговой клуб - Занятия спортом
+DTSTART;TZID=Europe/Moscow:20250303T200000
+DTEND;TZID=Europe/Moscow:20250303T210000
+UID:28289840037@my.itmo.ru
+DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
+ Бронюсович\nГруппа: Беговой клуб\nФормат:
+  Очный
 LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
@@ -1317,16 +1317,6 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20250310T200000
 DTEND;TZID=Europe/Moscow:20250310T210000
-UID:28289845708@my.itmo.ru
-DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
- Бронюсович\nГруппа: Беговой клуб\nФормат:
-  Очный
-LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20250310T200000
-DTEND;TZID=Europe/Moscow:20250310T210000
 UID:27452725692@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
@@ -1348,22 +1338,22 @@ LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
+DTSTART;TZID=Europe/Moscow:20250310T200000
+DTEND;TZID=Europe/Moscow:20250310T210000
+UID:28289845708@my.itmo.ru
+DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
+ Бронюсович\nГруппа: Беговой клуб\nФормат:
+  Очный
+LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20250312T200000
 DTEND;TZID=Europe/Moscow:20250312T210000
 UID:28289847908@my.itmo.ru
 DESCRIPTION:Преподаватель: 409336 Петровский Оле
  г Даниилович\nГруппа: Беговой клуб\nФорма
  т: Очный
-LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20250314T200000
-DTEND;TZID=Europe/Moscow:20250314T210000
-UID:28289850101@my.itmo.ru
-DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
- Бронюсович\nГруппа: Беговой клуб\nФормат:
-  Очный
 LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
@@ -1391,9 +1381,9 @@ LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20250317T200000
-DTEND;TZID=Europe/Moscow:20250317T210000
-UID:28289852067@my.itmo.ru
+DTSTART;TZID=Europe/Moscow:20250314T200000
+DTEND;TZID=Europe/Moscow:20250314T210000
+UID:28289850101@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
   Очный
@@ -1410,6 +1400,16 @@ DESCRIPTION:Преподаватель: 408377 Вилимас Томас
  5PCV                                                                      
                                                                            
               
+LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Беговой клуб - Занятия спортом
+DTSTART;TZID=Europe/Moscow:20250317T200000
+DTEND;TZID=Europe/Moscow:20250317T210000
+UID:28289852067@my.itmo.ru
+DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
+ Бронюсович\nГруппа: Беговой клуб\nФормат:
+  Очный
 LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
@@ -1439,19 +1439,6 @@ BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
 DTSTART;TZID=Europe/Moscow:20250324T200000
 DTEND;TZID=Europe/Moscow:20250324T210000
-UID:27452735279@my.itmo.ru
-DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
- Бронюсович\nГруппа: Беговой клуб\nФормат:
-  Очный\nПримечание: https://vk.me/join/AJQ1dz4noBVoKXGYwb9M
- 5PCV                                                                      
-                                                                           
-              
-LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20250324T200000
-DTEND;TZID=Europe/Moscow:20250324T210000
 UID:28289858332@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
@@ -1460,12 +1447,15 @@ LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Беговой клуб - Занятия спортом
-DTSTART;TZID=Europe/Moscow:20250328T200000
-DTEND;TZID=Europe/Moscow:20250328T210000
-UID:28289862655@my.itmo.ru
+DTSTART;TZID=Europe/Moscow:20250324T200000
+DTEND;TZID=Europe/Moscow:20250324T210000
+UID:27452735279@my.itmo.ru
 DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
  Бронюсович\nГруппа: Беговой клуб\nФормат:
-  Очный
+  Очный\nПримечание: https://vk.me/join/AJQ1dz4noBVoKXGYwb9M
+ 5PCV                                                                      
+                                                                           
+              
 LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
@@ -1479,6 +1469,16 @@ DESCRIPTION:Преподаватель: 408377 Вилимас Томас
  5PCV                                                                      
                                                                            
               
+LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Беговой клуб - Занятия спортом
+DTSTART;TZID=Europe/Moscow:20250328T200000
+DTEND;TZID=Europe/Moscow:20250328T210000
+UID:28289862655@my.itmo.ru
+DESCRIPTION:Преподаватель: 408377 Вилимас Томас 
+ Бронюсович\nГруппа: Беговой клуб\nФормат:
+  Очный
 LOCATION:ул.Белорусская\, д.6\, лит.А\, ауд. Вход
 END:VEVENT
 BEGIN:VEVENT
